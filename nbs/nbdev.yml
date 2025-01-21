@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "First_Task"
+  site-url: "https://Romasha-Guin-Brysk.github.io/First_Task"
+  description: "Working with nbdev and OpenVino."
+  repo-branch: main
+  repo-url: "https://github.com/Romasha-Guin-Brysk/First_Task"
