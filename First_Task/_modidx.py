@@ -8,4 +8,5 @@ d = { 'settings': { 'branch': 'main',
   'syms': { 'First_Task.core': {'First_Task.core.foo': ('core.html#foo', 'First_Task/core.py')},
             'First_Task.my_module': { 'First_Task.my_module.run_object_detection': ( 'my_module.html#run_object_detection',
                                                                                      'First_Task/my_module.py'),
-                                      'First_Task.my_module.transform_fn': ('my_module.html#transform_fn', 'First_Task/my_module.py')}}}
+                                      'First_Task.my_module.transform_fn': ('my_module.html#transform_fn', 'First_Task/my_module.py')},
+            'First_Task.notebook_utils': {}}}
