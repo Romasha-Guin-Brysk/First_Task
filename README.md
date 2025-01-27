@@ -42,4 +42,3 @@ Documentation can be found hosted on this GitHub
 [pages](https://Romasha-Guin-Brysk.github.io/First_Task/). Additionally
 you can find package manager specific guidelines on
 [pypi](https://pypi.org/project/First-Task/0.0.1/) respectively.
-```
