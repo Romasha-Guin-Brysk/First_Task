@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "First_Task",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "First_Task"
+    ]
+  },
+  {
+    "objectID": "index.html#developer-guide",
+    "href": "index.html#developer-guide",
+    "title": "First_Task",
+    "section": "Developer Guide",
+    "text": "Developer Guide\nIf you are new to using nbdev here are some useful pointers to get you started.\n\nInstall First_Task in Development mode\n# make sure First_Task package is installed in development mode\n$ pip install -e .\n\n# make changes under nbs/ directory\n# ...\n\n# compile to have changes apply to First_Task\n$ nbdev_prepare",
+    "crumbs": [
+      "First_Task"
+    ]
+  },
+  {
+    "objectID": "index.html#usage",
+    "href": "index.html#usage",
+    "title": "First_Task",
+    "section": "Usage",
+    "text": "Usage\n\nInstallation\nInstall latest from the GitHub repository:\n$ pip install git+https://github.com/Romasha-Guin-Brysk/First_Task.git\nor from conda\n$ conda install -c Romasha-Guin-Brysk First_Task\nor from pypi\n$ pip install First_Task\n\n\nDocumentation\nDocumentation can be found hosted on this GitHub repository’s pages. Additionally you can find package manager specific guidelines on conda and pypi respectively.",
+    "crumbs": [
+      "First_Task"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "First_Task",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "First_Task"
+    ]
+  },
+  {
+    "objectID": "my_module.html",
+    "href": "my_module.html",
+    "title": "my_module",
+    "section": "",
+    "text": "source\n\ntransform_fn\n\n transform_fn (data_item:dict)\n\n\nsource\n\n\nrun_object_detection\n\n run_object_detection (source=0, flip=False, use_popup=False,\n                       skip_first_frames=0, model=YOLO(), device='AUTO',\n                       video_width:int=None)\n\n\n\n\n\nType\nDefault\nDetails\n\n\n\n\nsource\nint\n0\n\n\n\nflip\nbool\nFalse\n\n\n\nuse_popup\nbool\nFalse\n\n\n\nskip_first_frames\nint\n0\n\n\n\nmodel\nYOLO\nYOLO()\n\n\n\ndevice\nstr\nAUTO\n\n\n\nvideo_width\nint\nNone\nif not set the original size is used",
+    "crumbs": [
+      "my_module"
+    ]
+  }
+]
